@@ -6,7 +6,7 @@ github_repo: athena
 github_username: broccolini
 theme_color: light
 remote_theme: internet-de-france/athena
-baseurl: /siva_prasad_reddy
+baseurl: /spr
 defaults:
   - scope:
       path: ''
