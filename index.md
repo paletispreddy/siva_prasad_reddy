@@ -1,10 +1,8 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Waves Networks
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
+This is testing webpage to understand how to design a home page for a wbsite
 
